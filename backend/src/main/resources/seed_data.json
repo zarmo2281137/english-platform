@@ -1,0 +1,22 @@
+{
+    "questionBank": [
+      {
+        "level": "A1",
+        "prompt": "She ___ to school every day.",
+        "explanation": "Present Simple 3rd person singular requires '-es'.",
+        "weight": 1
+      },
+      {
+        "level": "B2",
+        "prompt": "Had I known about the deadline, I ___ the project earlier.",
+        "explanation": "Third conditional requires 'would have + past participle'.",
+        "weight": 4
+      },
+      {
+        "level": "C1",
+        "prompt": "Seldom ___ such an extraordinary performance.",
+        "explanation": "Negative adverbial 'Seldom' triggers inversion.",
+        "weight": 5
+      }
+    ]
+  }
